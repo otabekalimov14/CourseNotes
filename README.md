@@ -1,2 +1,2 @@
 # CourseNotes
-2nd year:
+bu283 bu127 co250 stat230
